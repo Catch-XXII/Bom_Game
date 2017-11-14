@@ -1,0 +1,7 @@
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\Bom_Game\bin\Debug\Bom_Game.exe.config
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\Bom_Game\bin\Debug\Bom_Game.exe
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\Bom_Game\bin\Debug\Bom_Game.pdb
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\Bom_Game\obj\Debug\Bom_Game.csprojResolveAssemblyReference.cache
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\Bom_Game\obj\Debug\Bom_Game.csproj.CoreCompileInputs.cache
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\Bom_Game\obj\Debug\Bom_Game.exe
+C:\Users\cgultekin.kaya\Documents\Visual Studio 2017\Projects\Bom_Game\obj\Debug\Bom_Game.pdb
